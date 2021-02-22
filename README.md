@@ -1,37 +1,34 @@
-<h1 align='center'>Hi there 👋 I'm Soyeon.</h1>
-<p align='center'>
-  <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-</p>
-<p align='center'>
-  I'm <b>mobile app developer</b> using Android and iOS. 🚀 <br/>
-  Sometimes I develop cross-platforms like ReactNative or Flutter, but I prefer native.<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
-</p>
+# Hi there 👋 I'm Soyeon.
+<a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+
+I'm <b>mobile app developer</b> using Android and iOS. 🚀 <br/>
+Sometimes I develop cross-platforms like ReactNative or Flutter, but I prefer native.<br/><br/>
+I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+I hope to develop every beautiful things. ✨ <br/><br/>
 
 
-<h2 align='center'>💪 Skills</h2>
 
-<h3 align='center'>Platform & Language</h3>
-<p align='center'>
+## 💪 Skills
+### Platform & Language
+<p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=Apache%20Cordova&logoColor=black"/>
 </p>
-<p align='center'>
+<p>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
-<h4 align='center'>Tools</h3>
-<p align='center'>
+#### Tools
+<p>
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
